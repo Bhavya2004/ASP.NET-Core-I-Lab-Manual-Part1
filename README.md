@@ -3,7 +3,7 @@ Explore my completed solutions for the C# Fundamentals section of the ASP.NET Co
 
 | Lab No. | Practical                                      | Solution                                                                                        |
 |---------|------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| Lab 1   | **Topic: Variables, Data Types, Operators**     |                                                                                                 |
+|  Lab 1  |  **Topic: Variables, Data Types, Operators</span>** |   |                  |
 | 1 | Write a program to print your name, address, contact number & city. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-1/P1/Program.cs) |
 | 2 | Write a program to get two numbers from user and print those two numbers. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-1/P2/Program.cs) |
 | 3 | Write program to prompt a user to input his/her name and country name and then output will be shown as given: Hello <yourname> from country <countryname>. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-1/P3/Program.cs) |
