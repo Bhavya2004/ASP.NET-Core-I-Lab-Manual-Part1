@@ -23,7 +23,7 @@ Explore my completed solutions for the C# Fundamentals section of the ASP.NET Co
 | 5 | Write a program to print Fibonacci series. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-2/P5/Program.cs) |
 | 6 | Write a program that takes a number as input and displays its equivalent binary form. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-2/P6/Program.cs) |
 | 7 | Write a program to calculate the nPr. (nPr = n! / (n - r)!) | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-2/P7/Program.cs) |
-|---------|------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|  |  |  |
 | Lab 3   | **Topic: Class and Object, Constructors, Inheritance** |                                                                                                 |
 | 1 | Write a program to create a class named Candidate with ID, Name, Age, Weight and Height as data members & also create a member functions like GetCandidateDetails() and DisplayCandidateDetails(). | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-3/P1/Program.cs) |
 | 2 | Write a program to create a class Staff having data members as Name, Department, Designation, Experience & Salary. Accept this data for 5different staffs and display only names & salary of those staff who are HOD. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-3/P2/Program.cs) |
@@ -35,7 +35,7 @@ Explore my completed solutions for the C# Fundamentals section of the ASP.NET Co
 | 8 | Create a class Furniture with material ,price as data members. Create another class Table with Height , surface_area as data members. Write a program to implement single inheritance. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-3/P8/Program.cs) |
 | 9 | Write a program for implementing single inheritance which creates one class Account_Details for getting account information and another class Interest for calculating and displaying total interest from the data inserted from account details. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-3/P9/Program.cs) |
 | 10 | Program to implement the following multiple inheritance using interface : Interface: Gross Method- Gross_sal() , Class : Salary  Data Members - HRA, TA,DA  Methods - Disp_sal(), Class : Employee Data Members - Name Methods - basic_sal() | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-3/P10/Program.cs) |
-|---------|------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|  |  |  |
 | Lab 4   | **Topic: Exception Handling, Interface, Abstraction, String Functions** |                                                                                 |
 | 1 | Write a program to Create a divide by zero exception and handle it. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-4/P1/Program.cs) |
 | 2 | Write a program that reads 5 numbers from user. Demonstrate concept of IndexOutOfRange Exception. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-4/P2/Program.cs) |
@@ -47,7 +47,7 @@ Explore my completed solutions for the C# Fundamentals section of the ASP.NET Co
 | 8 | Write a program to Replace lower case characters to upper case and Vice-versa. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-4/P8/Program.cs) |
 | 9 | Write a program to find the longest word in a string. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-4/P9/Program.cs) |
 | 10 | Write a program to change the case of entered character. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-4/P10/Program.cs) |
-|---------|------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|  |  |  |
 | Lab 5   | **Topic: Method Overloading, Method Overriding, Delegates** |                                                                                 |
 | 1 | Write a program using method overloading by changing datatype of arguments to perform addition of two integer numbers and two float numbers. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-5/P1/Program.cs) |
 | 2 | Write a program using method overloading by changing number of arguments to calculate area of square and rectangle. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-5/P2/Program.cs) |
@@ -57,7 +57,7 @@ Explore my completed solutions for the C# Fundamentals section of the ASP.NET Co
 | 6 | Write a program to return the factorial from the method using delegate. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-5/P6/Program.cs) |
 | 7 | Write a program to create a delegate called TrafficDel and a class called TrafficSignal with the following delegate methods.Public static void Yellow(){Console.WriteLine(“Yellow Light Signal To Get Ready”);}Public static void Green(){Console.WriteLine(“Green Light Signal To Go”);}Public static void Red(){Console.WriteLine(“Red Light Signal To Stop”);} | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-5/P7/Program.cs) |
 | 8 | Write a program to create a delegate calculator to demonstrate the example of generic delegate. | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-5/P8/Program.cs) |
-|---------|------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|  |  |  |
 | Lab 6   | **Topic: Collection Classes** |                                                                                 |
 | 1 | Create an ArrayList for StudentName and perform following operations: a. Add() - To Add new student in list b. Remove() - To Remove Student with specified index c. RemoveRange() - To Remove student with specified range. d. Clear() - To clear all the student from the list | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-6/P1/Program.cs) |
 | 2 | Create a List for StudentName and perform following operations: a. Add() - To Add new student in list b. Remove() - To Remove Student with specified index c. RemoveRange() - To Remove student with specified range. d. Clear() - To clear all the student from the list | [![Solution](https://img.shields.io/badge/Solution-Open-brightgreen)](./Lab-6/P2/Program.cs) |
