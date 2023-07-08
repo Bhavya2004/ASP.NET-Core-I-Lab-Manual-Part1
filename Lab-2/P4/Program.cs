@@ -1,0 +1,3 @@
+﻿// Write a program to find out whether a given year is a leap year or not.
+
+using System;class LeapYear{   public static void Main(String[] args)    {        Console.WriteLine("Enter a year:");        int year = Convert.ToInt32(Console.ReadLine());        bool isLeapYear = false;        if (year % 4 == 0)        {            if (year % 100 != 0 || year % 400 == 0)            {                isLeapYear = true;            }        }        if (isLeapYear)        {            Console.WriteLine(year + " is a leap year.");        }        else        {            Console.WriteLine(year + " is not a leap year.");        }    }}
